@@ -1,0 +1,1 @@
+This was a side project I worked on whilst trying to build a large NBA dataset for a separate project. I was hoping to use regression to predict an NBA's player performance, unfortunately the model could not find a strong enough relationship to become profitable at sports betting.
